@@ -1,0 +1,11 @@
+{
+    "name": "frontend",
+    "version": "0.1.0",
+    "proxy": "http://localhost:5000", // Replace with your backend server URL
+    "scripts": {
+        // Scripts...
+    },
+    "dependencies": {
+        // Dependencies...
+    }
+}
